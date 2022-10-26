@@ -1,0 +1,1 @@
+# SimplisticRabbitMQ_SAST_QL_2
